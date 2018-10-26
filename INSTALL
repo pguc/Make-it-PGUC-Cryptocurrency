@@ -1,0 +1,9 @@
+Building PGUCcoin
+
+See doc/readme-qt.rst for instructions on building PGUCcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PGUCcoin.
+
+See doc/build-*.txt for instructions on building PGUCcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PGUCcoin.
